@@ -39,4 +39,7 @@ const logNumber: (i :number) => void = (i: number) => {
 };
 
 // when to use annotations
-// 1) Function returns an anytype
+// 1) Function returns an 'any' type
+const json = '{"x": 10, "y": 20}';
+const coordinates = JSON.parse(json)
+console.log(coordinates); //{x: 10, y:20};
