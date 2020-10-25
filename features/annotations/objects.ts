@@ -10,7 +10,11 @@ const profile = {
   }
 }
 
+// eslint-disable-next-line no-unused-vars
+// @ts-ignore
+// eslint-disable-next-line no-unused-vars
 const { age, name }: { age: number; name: string} = profile
 const {
+  // eslint-disable-next-line no-unused-vars
   coords: { lat, lng }
 }: { coords: { lat: number; lng: number} } = profile
