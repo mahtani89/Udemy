@@ -2,7 +2,7 @@
   "name": "fetchjson",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "fetchjson/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,7 +16,12 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.5.0",
     "@typescript-eslint/parser": "^4.5.0",
-    "eslint": "^7.11.0",
-    "eslint-config-google": "^0.14.0"
+    "eslint": "^7.12.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-standard": "^15.0.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.2"
   }
 }

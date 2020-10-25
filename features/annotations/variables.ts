@@ -1,21 +1,21 @@
-let apples = 5;
+const apples = 5
 
-let speed: string = 'fast';
+const speed: string = 'fast'
 
-let hasName: boolean = true
+const hasName: boolean = true
 
-let nothingMuch: null = null;
+const nothingMuch: null = null
 
-let nothing: undefined = undefined
+let nothing: undefined
 
 // built in objects
-let now: Date = new Date()
+const now: Date = new Date()
 
 // Array
 
-let colours: string[] = ['red', 'green', 'blue']
-let myNumbers: number[] = [1, 2, 3]
-let truths: boolean[] = [true, true, false]
+const colours: string[] = ['red', 'green', 'blue']
+const myNumbers: number[] = [1, 2, 3]
+const truths: boolean[] = [true, true, false]
 
 // Classes
 
@@ -23,46 +23,45 @@ class Car {
 
 }
 
-let car: Car = new Car()
+const car: Car = new Car()
 
 // Object literal
 
-let point: {x: number; y: number} = {
-	x: 10,
-	y: 20
+const point: {x: number; y: number} = {
+  x: 10,
+  y: 20
 }
 
 // Function
 
 const logNumber: (i :number) => void = (i: number) => {
-	console.log(i);
-};
+  console.log(i)
+}
 
 // when to use annotations
 // 1) Function returns an 'any' type
-const json = '{"x": 10, "y": 20}';
+const json = '{"x": 10, "y": 20}'
 const coordinates: {x: number; y:number} = JSON.parse(json)
-console.log(coordinates); //{x: 10, y:20};
+console.log(coordinates) // {x: 10, y:20};
 
 // 2) when we declare a variable on one line and initilise it later
-let words = ['red', 'green', 'blue']
+const words = ['red', 'green', 'blue']
 
-let foundWord: boolean;
+let foundWord: boolean
 
-for (let i = 0; i<words.length;i++) {
-	if (words[i]==='green') {
-		foundWord = true;
-	}
+for (let i = 0; i < words.length; i++) {
+  if (words[i] === 'green') {
+    foundWord = true
+  }
 }
 
 // 3) variable whose type that can't be inferred correctly
 
-let numbers =[ -10,-1,12]
-let numberAboveZero: boolean | number = false;
+const numbers = [-10, -1, 12]
+let numberAboveZero: boolean | number = false
 
-for (let i = 0; i< numbers.length; i++) {
-	if (numbers[i] > 0) {
-		numberAboveZero = numbers[i]
-	}
+for (let i = 0; i < numbers.length; i++) {
+  if (numbers[i] > 0) {
+    numberAboveZero = numbers[i]
+  }
 }
-
