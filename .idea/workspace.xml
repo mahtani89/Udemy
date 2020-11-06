@@ -25,7 +25,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9426474-615b-41b6-a287-7c6571d440ae" name="Default Changelist" comment="update git ignore" />
+    <list default="true" id="e9426474-615b-41b6-a287-7c6571d440ae" name="Default Changelist" comment="update git ignore">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/classes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/types.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,17 +51,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -76,6 +92,8 @@
       <workItem from="1604239262352" duration="5208000" />
       <workItem from="1604255330958" duration="270000" />
       <workItem from="1604255604486" duration="28000" />
+      <workItem from="1604255647282" duration="1433000" />
+      <workItem from="1604687685309" duration="3519000" />
     </task>
     <task id="LOCAL-00002" summary="Completed 7 of 18">
       <created>1604250205345</created>
@@ -112,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604255621219</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="updated theme">
+      <created>1604255864943</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604255864943</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,19 +176,27 @@
     <MESSAGE value="completed section 6/18" />
     <MESSAGE value="Completed 7 of 18" />
     <MESSAGE value="update git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="update git ignore" />
+    <MESSAGE value="updated theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated theme" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="921" y="179" key="SettingsEditor" timestamp="1604239989343">
+    <state x="341" y="439" width="962" height="510" key="#ESLint" timestamp="1604687833017">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="341" y="439" key="#ESLint/0.0.1920.1080/-1920.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1604687833017" />
+    <state x="341" y="439" width="962" height="510" key="#ESLint/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604256664934" />
+    <state x="81" y="38" width="900" height="722" key="SettingsEditor" timestamp="1604256843167">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="921" y="179" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603913254169" />
-    <state x="921" y="179" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604239989343" />
-    <state x="1044" y="296" key="Vcs.Push.Dialog.v2" timestamp="1604255625321">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state x="81" y="38" width="900" height="722" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604256843167" />
+    <state x="921" y="179" key="SettingsEditor/1920.23.1920.1057/0.0.1920.1080@0.0.1920.1080" timestamp="1604255849066" />
+    <state x="1044" y="279" key="Vcs.Push.Dialog.v2" timestamp="1604255868998">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1044" y="279" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603917739579" />
     <state x="1044" y="279" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604255432902" />
+    <state x="1044" y="279" key="Vcs.Push.Dialog.v2/1920.23.1920.1057/0.0.1920.1080@0.0.1920.1080" timestamp="1604255868998" />
     <state x="1044" y="296" key="Vcs.Push.Dialog.v2/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1604255625321" />
     <state x="1240" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604255103848">
       <screen x="0" y="0" width="1920" height="1080" />
