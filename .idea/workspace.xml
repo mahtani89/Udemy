@@ -25,10 +25,16 @@
     </select>
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e9426474-615b-41b6-a287-7c6571d440ae" name="Default Changelist" comment="Completed 9/18 section">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sort/build/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sort/build/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sort/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sort/src/index.ts" afterDir="false" />
+=======
+    <list default="true" id="e9426474-615b-41b6-a287-7c6571d440ae" name="Default Changelist" comment="compleated 8/16 sections">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 50f7de26db4e61808ee63bdda0557892b070c31b
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +73,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+<<<<<<< HEAD
     <property name="javascript.nodejs.core.library.configured.version" value="14.12.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.9" />
+=======
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.7" />
+>>>>>>> 50f7de26db4e61808ee63bdda0557892b070c31b
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -85,7 +96,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="run.prettier.on.save" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -121,9 +132,16 @@
       <workItem from="1604687685309" duration="5642000" />
       <workItem from="1604736242741" duration="429000" />
       <workItem from="1604828891262" duration="13302000" />
+<<<<<<< HEAD
       <workItem from="1604843717608" duration="4972000" />
       <workItem from="1604853950224" duration="1907000" />
       <workItem from="1605954226753" duration="2245000" />
+=======
+      <workItem from="1604843717608" duration="4798000" />
+      <workItem from="1605365280919" duration="324000" />
+      <workItem from="1605365718290" duration="142000" />
+      <workItem from="1605365863406" duration="917000" />
+>>>>>>> 50f7de26db4e61808ee63bdda0557892b070c31b
     </task>
     <task id="LOCAL-00002" summary="Completed 7 of 18">
       <created>1604250205345</created>
@@ -246,13 +264,31 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="594" y="225" key="#Inspections/0.0.1920.1080/-1920.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1604830878885" />
-    <state x="81" y="60" width="900" height="722" key="SettingsEditor" timestamp="1604844082957">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1379" height="269" key="GridCell.Tab.0.bottom" timestamp="1605365791458">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1379" height="269" key="GridCell.Tab.0.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1605365791458" />
+    <state width="1379" height="269" key="GridCell.Tab.0.center" timestamp="1605365791457">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1379" height="269" key="GridCell.Tab.0.center/0.25.2560.1415@0.25.2560.1415" timestamp="1605365791457" />
+    <state width="1379" height="269" key="GridCell.Tab.0.left" timestamp="1605365791456">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1379" height="269" key="GridCell.Tab.0.left/0.25.2560.1415@0.25.2560.1415" timestamp="1605365791456" />
+    <state width="1379" height="269" key="GridCell.Tab.0.right" timestamp="1605365791457">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1379" height="269" key="GridCell.Tab.0.right/0.25.2560.1415@0.25.2560.1415" timestamp="1605365791457" />
+    <state x="108" y="51" width="900" height="722" key="SettingsEditor" timestamp="1605367357087">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="81" y="38" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1604833705648" />
     <state x="81" y="38" key="SettingsEditor/0.0.1920.1080/-1920.23.1920.1057/1920.23.1680.1027@0.0.1920.1080" timestamp="1604833552048" />
     <state x="921" y="179" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603913254169" />
+    <state x="108" y="51" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1605367357087" />
     <state x="81" y="60" width="900" height="722" key="SettingsEditor/0.23.1920.1057/-1920.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1604844082957" />
+    <state x="108" y="75" key="SettingsEditor/0.25.2560.1415@0.25.2560.1415" timestamp="1605366209875" />
     <state x="81" y="38" width="900" height="722" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604256843167" />
     <state x="921" y="179" key="SettingsEditor/1920.23.1920.1057/0.0.1920.1080@0.0.1920.1080" timestamp="1604255849066" />
     <state x="1044" y="296" key="Vcs.Push.Dialog.v2" timestamp="1604849331867">
