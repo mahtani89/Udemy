@@ -3,3 +3,5 @@
 /maps
 .idea/workspace.xml
 sort/node_modules
+stats/node_modules
+stats/*.csv
